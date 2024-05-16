@@ -1,3 +1,17 @@
+#Resources
+Read or watch:
+
+cmd module
+cmd module in depth
+packages concept page
+uuid module
+datetime
+unittest module
+args/kwargs
+Python test cheatsheet
+cmd module wiki page
+python unittest
+
 #command line interpreter
 is a program that translates commands entered by users into a language that the operating system can understand and execute.
 Command Prompt: The command interpreter typically presents a prompt, indicating that it's ready to accept user input. This prompt often includes information such as the current working directory or the username, followed by a symbol like "$" or ">".
